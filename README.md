@@ -45,4 +45,4 @@ This portfolio outlines how I run onboarding engagements with customers and inte
 Onboarding & Implementation Specialist  
 Enterprise SaaS · Customer Launch · Systems Enablement  
 
-[LinkedIn](https://www.linkedin.com/in/jeremy-r-a57b98ab/)
+[LinkedIn](https://www.linkedin.com/in/scott-r-a57b98ab/)
