@@ -1,4 +1,5 @@
-# Customer Onboarding & Implementation Portfolio
+# Technical Scoping & Integration Delivery Portfolio
+
 
 This repository is a working portfolio that reflects how I approach SaaS onboarding and implementations—from kickoff through customer independence.
 
