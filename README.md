@@ -40,7 +40,7 @@ If you are reviewing this as a hiring manager or founder, this repository is bes
 
 This portfolio outlines how I run onboarding engagements with customers and internal teams, with examples and case studies below.
 
-👉 **[Implementation & Integration Case Study Portfolio](https://jeremyramey.github.io/implementation-integration-portfolio/)**
+👉 **[Technical Scoping & Integration Delivery Portfolio](https://scottramey.github.io/technical-scoping-portfolio/#overview)**
 
 **Scott Ramey**  
 Onboarding & Implementation Specialist  
